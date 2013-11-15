@@ -1,5 +1,8 @@
-# system.prop for serrano3gxx
+# system.prop for serranodsub
 #
+
+# dual sim device
+persist.multisim.config=dsds
 
 # cannot take spaces
 rild.libargs=-d /dev/smd0
